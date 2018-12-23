@@ -1,3 +1,3 @@
 # myrep
-new to hithub
+new to github
 more later
